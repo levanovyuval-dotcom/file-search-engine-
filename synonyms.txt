@@ -1,0 +1,411 @@
+one, 1
+
+two, 2
+
+three, 3
+
+four, 4
+
+five, 5
+
+six, 6
+
+seven, 7
+
+eight, 8
+
+nine, 9
+
+good, excellent, great, amazing, awesome, fantastic, superb, wonderful, incredible
+
+bad, awful, terrible, horrible, poor, negative, dreadful, unpleasant, nasty
+
+fast, quick, rapid, speedy, swift, brisk, immediate, instant
+
+slow, sluggish, lethargic, gradual, delayed, unhurried, idle
+
+big, large, huge, enormous, gigantic, massive, vast, immense
+
+small, tiny, little, mini, petite, compact, miniature
+
+smart, intelligent, clever, bright, brilliant, sharp, wise
+
+stupid, dumb, foolish, ignorant, silly, slow, brainless
+
+happy, joyful, cheerful, glad, pleased, delighted, content
+
+sad, unhappy, miserable, down, depressed, gloomy, sorrowful
+
+angry, mad, furious, irritated, annoyed, upset, enraged
+
+hot, warm, heated, boiling, burning, scorching, fiery
+
+cold, chilly, freezing, icy, cool, frigid, frozen
+
+strong, powerful, mighty, tough, sturdy, solid, robust
+
+weak, fragile, feeble, delicate, frail, powerless
+
+easy, simple, effortless, basic, straightforward, manageable
+
+hard, difficult, tough, challenging, complex, demanding
+
+clean, tidy, neat, spotless, pure, clear, hygienic
+
+dirty, filthy, messy, unclean, grimy, stained
+
+rich, wealthy, loaded, affluent, welloff, prosperous
+
+poor, broke, needy, impoverished, broke, penniless
+
+win, beat, defeat, overcome, succeed, triumph, conquer
+
+lose, fail, miss, drop, collapse, fall
+
+run, jog, sprint, dash, rush, race
+
+walk, stroll, step, wander, march, roam
+
+talk, speak, chat, converse, discuss, communicate
+
+look, see, watch, observe, notice, view
+
+build, create, construct, make, form, assemble
+
+break, damage, shatter, crack, destroy, smash
+
+love, adore, like, enjoy, cherish, care
+
+hate, dislike, despise, detest, loathe, reject
+
+start, begin, commence, initiate, launch, open
+
+end, finish, stop, complete, conclude, terminate
+
+big, huge, vast, gigantic, colossal, massive
+
+tiny, small, miniature, minute, little, tiny
+
+fast, swift, rapid, quick, speedy, brisk
+
+slow, gradual, sluggish, delayed, unhurried
+
+strong, tough, solid, powerful, firm, sturdy
+
+weak, frail, fragile, delicate, powerless
+
+hot, boiling, warm, heated, scorching
+
+cold, freezing, icy, chilled, cool
+
+happy, glad, joyful, cheerful, pleased
+
+sad, gloomy, unhappy, miserable, depressed
+
+smart, clever, intelligent, bright, wise
+
+stupid, dumb, foolish, slow, brainless
+
+good, excellent, great, amazing, awesome
+
+bad, awful, terrible, horrible, poor
+
+fast, quick, rapid, speedy, swift
+
+slow, sluggish, delayed, unhurried, idle
+
+big, large, huge, enormous, vast
+
+small, tiny, little, mini, compact
+
+strong, powerful, mighty, sturdy, robust
+
+weak, fragile, feeble, frail, delicate
+
+happy, joyful, cheerful, glad, delighted
+
+sad, unhappy, gloomy, miserable, down
+
+angry, mad, furious, annoyed, irritated
+
+calm, peaceful, relaxed, quiet, serene
+
+loud, noisy, booming, deafening, harsh
+
+quiet, silent, soft, muted, hushed
+
+bright, shiny, glowing, radiant, luminous
+
+dark, dim, shadowy, gloomy, black
+
+clean, pure, spotless, neat, tidy
+
+dirty, filthy, grimy, messy, stained
+
+rich, wealthy, affluent, loaded, rich
+
+poor, broke, needy, penniless, poor
+
+win, victory, triumph, success, conquer
+
+lose, fail, defeat, collapse, miss
+
+run, sprint, jog, dash, rush
+
+walk, stroll, wander, step, roam
+
+talk, speak, chat, discuss, converse
+
+look, see, watch, observe, notice
+
+build, make, create, construct, form
+
+break, destroy, shatter, smash, crack
+
+love, adore, like, cherish, enjoy
+
+hate, despise, detest, dislike, reject
+
+start, begin, launch, initiate, open
+
+end, finish, stop, conclude, terminate
+
+not, no, nuh
+
+weather, climate, atmosphere, forecast, temperature, conditions
+
+rain, drizzle, shower, storm, downpour, rainfall
+
+snow, blizzard, frost, hail, sleet, flurries
+
+wind, breeze, gust, airflow, draft, cyclone
+
+sun, sunlight, sunshine, rays, daylight, glow
+
+moon, satellite, crescent, lunarbody, orbit, nightlight
+
+star, galaxy, universe, cosmos, constellation, nebula
+
+earth, world, planet, globe, nature, environment
+
+forest, jungle, woods, rainforest, wilderness, grove
+
+river, stream, creek, brook, waterway, flow
+
+ocean, sea, gulf, bay, waters, deep
+
+mountain, hill, cliff, peak, summit, ridge
+
+desert, dunes, wasteland, dryland, barrens, sandscape
+
+animal, creature, beast, organism, wildlife, fauna, dog, cat 
+
+dog, puppy, canine, pet, hound, companion, animal 
+
+cat, kitten, feline, pet, hunter, whiskers
+
+bird, eagle, sparrow, hawk, parrot, pigeon
+
+fish, shark, salmon, tuna, trout, goldfish
+
+horse, pony, stallion, mare, racer, steed
+
+lion, tiger, leopard, panther, cheetah, predator
+
+school, classroom, campus, academy, institute, college
+
+teacher, educator, instructor, mentor, tutor, professor
+
+student, learner, pupil, trainee, scholar, apprentice
+
+book, novel, textbook, story, publication, volume
+
+pen, pencil, marker, crayon, stylus, highlighter
+
+computer, laptop, desktop, machine, processor, device
+
+phone, smartphone, mobile, cellphone, handset, device
+
+internet, web, network, cyberspace, onlineworld, connection
+
+game, match, competition, contest, tournament, challenge
+
+soccer, football, match, league, striker, goalkeeper
+
+basketball, dribble, dunk, hoop, court, rebound
+
+tennis, racket, serve, volley, court, match
+
+music, melody, rhythm, harmony, tune, soundtrack
+
+song, track, anthem, ballad, single, composition
+
+movie, film, cinema, production, feature, blockbuster
+
+actor, performer, celebrity, artist, entertainer, star
+
+artist, painter, creator, designer, illustrator, sculptor
+
+picture, image, photo, snapshot, portrait, drawing
+
+color, shade, tone, pigment, hue, tint
+
+red, crimson, scarlet, ruby, cherry, burgundy
+
+blue, navy, azure, cobalt, sapphire, turquoise
+
+green, lime, emerald, olive, mint, jade
+
+yellow, gold, lemon, amber, mustard, sunshine
+
+black, dark, ebony, charcoal, shadow, midnight
+
+white, pale, ivory, snow, pearl, bright
+
+food, meal, cuisine, dish, snack, feast
+
+bread, loaf, baguette, toast, bun, pastry
+
+rice, grain, cereal, carb, whitegrain, staple
+
+meat, beef, chicken, pork, steak, protein
+
+fruit, apple, banana, orange, grape, melon
+
+vegetable, carrot, cucumber, pepper, onion, lettuce
+
+cake, dessert, pastry, sweet, treat, cupcake
+
+water, liquid, drink, hydration, beverage, fluid
+
+coffee, espresso, latte, cappuccino, brew, caffeine
+
+tea, herbaltea, chai, infusion, beverage, greentea
+
+house, home, apartment, residence, building, shelter
+
+room, bedroom, kitchen, bathroom, hallway, office
+
+door, gate, entrance, portal, opening, passage
+
+window, glass, frame, opening, view, pane
+
+car, vehicle, automobile, ride, transport, sedan
+
+bus, coach, shuttle, transport, vehicle, transit
+
+train, railway, locomotive, subway, metro, transport
+
+plane, aircraft, jet, airplane, flight, aviation
+
+road, street, highway, avenue, lane, route
+
+city, town, village, metropolis, municipality, capital, new_york, modiin, tel_aviv, jerusalem
+
+country, nation, state, territory, homeland, republic, america, usa, israel
+
+job, career, profession, occupation, work, employment, programmer, policeman 
+
+money, cash, currency, wealth, income, finance
+
+bank, vault, branch, lender, institution, finance
+
+store, shop, market, boutique, outlet, supermarket
+
+clothes, outfit, apparel, garments, fashion, wear
+
+shirt, tshirt, blouse, top, jersey, uniform
+
+pants, jeans, trousers, shorts, leggings, slacks
+
+shoes, sneakers, boots, sandals, footwear, trainers
+
+hat, cap, helmet, beanie, fedora, visor
+
+family, parents, siblings, relatives, household, kin
+
+friend, buddy, pal, companion, teammate, partner
+
+baby, infant, toddler, newborn, child, kid
+
+man, male, gentleman, guy, person, adult
+
+woman, female, lady, girl, person, adult
+
+child, kid, youngster, minor, youth, teen
+
+time, clock, moment, schedule, duration, period
+
+day, morning, afternoon, evening, night, daytime
+
+week, weekday, weekend, period, cycle, schedule
+
+year, decade, century, era, age, lifetime
+
+birthday, celebration, party, anniversary, gathering, event
+
+holiday, vacation, break, getaway, trip, journey
+
+travel, explore, wander, journey, adventure, tourism
+
+map, guide, direction, route, navigation, location
+
+language, speech, dialect, communication, vocabulary, grammar
+
+english, language, vocabulary, grammar, pronunciation, speech
+
+math, algebra, geometry, arithmetic, numbers, equations
+
+science, biology, chemistry, physics, research, experiment
+
+history, past, events, civilization, timeline, heritage
+
+art, creativity, painting, sculpture, design, expression
+
+religion, belief, faith, worship, spirituality, tradition
+
+technology, innovation, electronics, gadgets, engineering, robotics
+
+space, galaxy, orbit, astronaut, rocket, cosmos
+
+energy, power, electricity, fuel, force, strength
+
+fire, flame, blaze, inferno, sparks, heat
+
+ice, frost, glacier, snow, freezing, coldness
+
+metal, steel, iron, aluminum, copper, alloy
+
+wood, timber, lumber, plank, bark, tree
+
+glass, crystal, mirror, window, transparent, fragile
+
+plastic, polymer, material, synthetic, flexible, durable
+
+gold, treasure, jewelry, riches, wealth, bullion
+
+diamond, gem, jewel, crystal, preciousstone, sparkle
+
+king, ruler, emperor, monarch, leader, sovereign, queen 
+
+soldier, warrior, fighter, guard, defender, troop
+
+police, officer, law, patrol, detective, sheriff
+
+doctor, physician, medic, surgeon, healer, specialist
+
+hospital, clinic, medicalcenter, emergencyroom, healthcare, ward
+
+virus, bacteria, infection, disease, illness, sickness
+
+dream, vision, fantasy, imagination, goal, ambition
+
+secret, mystery, puzzle, hiddenfact, unknown, enigma
+
+magic, spell, wizardry, sorcery, illusion, enchantment
+
+dragon, monster, beast, creature, serpent, legend
+
+pirate, sailor, captain, outlaw, corsair, adventurer
+
+robot, ai, machine, android, automation, cyborg
