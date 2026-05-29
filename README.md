@@ -1,2 +1,10 @@
 # file-search-engine-
 This project implements a lightweight search engine in C. It performs word stemming (Porter-like rules), supports synonym groups, and matches queries against paragraphs. It ranks results using a TF-IDF-inspired scoring system and returns the top three most relevant paragraphs.
+
+This search engine works by processing both the user query and a database of paragraphs through a series of normalization and matching steps. First, every word is converted to lowercase and reduced to its root form using a stemming algorithm similar to the Porter stemmer. This ensures that different grammatical forms of the same word (like “running” and “run”) are treated as the same term. In addition, the system can recognize vowel patterns and handles edge cases such as plural forms and suffix removal.
+
+After preprocessing, the program loads a synonym file where words are grouped into synonym sets. If a search term does not directly appear in a paragraph, the program checks whether any synonym of that term appears instead. This significantly improves recall, allowing the search engine to find relevant results even when different wording is used in the text.
+
+The core of the system is its scoring mechanism. Each search term is evaluated across all paragraphs using a TF-IDF-inspired formula that considers how frequently a word appears in a paragraph and how rare it is across the entire dataset. Paragraphs are scored higher when they contain more important and less common search terms. Additional weight is given when matches come from synonyms, though slightly reduced compared to exact matches.
+
+To use the program, the user inputs a search query as a line of text. The system reads the query, stems each word, and compares it against paragraphs stored in `database.txt`. It also loads synonyms from `synonyms.txt` to expand the search. Finally, it outputs whether any match was found and prints the top three most relevant paragraphs based on their computed scores, showing the best, second-best, and third-best options.
